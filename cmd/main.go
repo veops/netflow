@@ -13,7 +13,7 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cast"
 
-	"github.com/rfyiamcool/go-netflow"
+	"github.com/veops/netflow"
 )
 
 var (

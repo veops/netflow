@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/rfyiamcool/go-netflow"
+	"github.com/veops/netflow"
 )
 
 func main() {
